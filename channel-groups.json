@@ -3,7 +3,15 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "Test",
+          "subtitle" : "Test",
+          "channel" : {
+            "owner" : "kobble-ios",
+            "path" : "channels\/test.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "Test"
