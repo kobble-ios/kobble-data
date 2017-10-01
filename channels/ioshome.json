@@ -1,0 +1,15 @@
+{
+  "title" : "Home",
+  "subtitle" : "Kobble Home",
+  "tracks" : [
+    {
+      "title" : "Getting Started",
+      "subtitle" : "Getting Started",
+      "track" : {
+        "owner" : "kobble-ios",
+        "path" : "tracks\/getting-started",
+        "repo" : "kobble-data"
+      }
+    }
+  ]
+}
