@@ -1,0 +1,20 @@
+{
+  "groups" : [
+    {
+      "isShowing" : true,
+      "channels" : [
+        {
+          "title" : "Home",
+          "subtitle" : "Kobble Home",
+          "channel" : {
+            "owner" : "kobble-test",
+            "path" : "channels\/ioshome.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Home"
+    }
+  ]
+}
