@@ -2,6 +2,14 @@
   "title" : "Ano",
   "subtitle" : "Ano",
   "tracks" : [
-
+    {
+      "title" : "Dgdg",
+      "subtitle" : "Dgdg",
+      "track" : {
+        "owner" : "kobble-ios",
+        "path" : "tracks\/dgdg",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
