@@ -19,7 +19,15 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "My Channel",
+          "subtitle" : "My Channel",
+          "channel" : {
+            "owner" : "kobble-ios",
+            "path" : "channels\/mychannel.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "My Channels"
