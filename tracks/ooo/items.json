@@ -1,5 +1,21 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/google.com"
+        }
+      },
+      "title" : "Goo",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Goo",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    }
   ]
 }
