@@ -2,6 +2,14 @@
   "title" : "My Channel",
   "subtitle" : "My Channel",
   "tracks" : [
-
+    {
+      "title" : "My Track",
+      "subtitle" : "My Track",
+      "track" : {
+        "owner" : "kobble-ios",
+        "path" : "tracks\/mytrack",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
