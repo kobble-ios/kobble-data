@@ -7,7 +7,7 @@
           "title" : "Home",
           "subtitle" : "Kobble Home",
           "channel" : {
-            "owner" : "kobble-test",
+            "owner" : "kobble-ios",
             "path" : "channels\/ioshome.json",
             "repo" : "kobble-data"
           }
