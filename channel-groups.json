@@ -4,6 +4,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Ano",
+          "subtitle" : "Ano",
+          "channel" : {
+            "owner" : "kobble-ios",
+            "path" : "channels\/ano.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Test",
           "subtitle" : "Test",
           "channel" : {
