@@ -2,6 +2,14 @@
   "title" : "Test",
   "subtitle" : "Test",
   "tracks" : [
-
+    {
+      "title" : "New",
+      "subtitle" : "New",
+      "track" : {
+        "owner" : "kobble-ios",
+        "path" : "tracks\/new",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
