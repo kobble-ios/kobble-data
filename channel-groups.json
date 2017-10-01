@@ -15,6 +15,14 @@
       ],
       "isToggled" : false,
       "name" : "Kobble"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+
+      ],
+      "isToggled" : false,
+      "name" : "My Channels"
     }
   ]
 }
