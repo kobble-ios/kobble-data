@@ -10,7 +10,7 @@ Tap the *My Channel* channel to open it. The tracks will appear.
 
 ::: slide 
 ### Open a Track
-Tap the *My Track* track to open it. The plus icon will appear.
+Tap the *My Track* track to open it. The plus icon will appear.    
 :::
 
 ::: slide 
