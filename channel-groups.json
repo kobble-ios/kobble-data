@@ -4,31 +4,6 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "Ano",
-          "subtitle" : "Ano",
-          "channel" : {
-            "owner" : "kobble-ios",
-            "path" : "channels\/ano.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Test",
-          "subtitle" : "Test",
-          "channel" : {
-            "owner" : "kobble-ios",
-            "path" : "channels\/test.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Test"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
-        {
           "title" : "Home",
           "subtitle" : "Kobble Home",
           "channel" : {
