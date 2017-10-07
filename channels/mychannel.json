@@ -6,7 +6,7 @@
       "title" : "My Track",
       "subtitle" : "My Track",
       "track" : {
-        "owner" : "kobble-ios",
+        "owner" : "anonUser",
         "path" : "tracks\/mytrack",
         "repo" : "kobble-data"
       }
