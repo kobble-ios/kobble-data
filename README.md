@@ -13,10 +13,9 @@ If you are a creative, productive person, then Kobble is right for you!
 
 ### Kobble can be used for a variety of purposes
 With Kobble, you can easily create content for a variety of purposes.
-You can keep all your data in Kobble such as study notes, projects, internet research, reports, and presentations.
+You can keep all your data in Kobble such as study notes, projects, internet research, reports, and presentations. You can even stream archived books and view them in your Kobble environment. 
 Kobble also helps you increase your productivity as you browse the internet collecting information for your research projects.
-You can also keep images, videos and all other project related links and notes all together in one place.
-You can even stream archived books and view them in your Kobble environment.
+You can also keep images, videos and all other project related links and notes all together in one place. Drag and drop makes all your multi-tasking so quick and easy. 
 
 ### Kobble allows you to organize the way you want to
 The Kobble environment allows you to keep your internet links organized just the way you want them.
@@ -24,11 +23,11 @@ You can drag and drop your links right into your personal Kobble environment.
 Kobble allows you to create items in a Tree format such as links, file folders, documents and presentations.
 Kobble uses a data model similar to YouTube or Spotify to organize data within a Tree containing Channels and what we call Tracks - which is simply a collection of items relating to your projects that you want to keep track of.
 Channels can hold items related to topics of interest and Tracks help you organize your items by project. 
-The versatility of the Kobble Tree allows you to organize, copy and rearrange your Channels and Tracks however you want.
+The versatility of the Kobble Tree allows you to drag and drop easily, so you can organize, copy and rearrange your Channels and Tracks however you want.
 You can create an unlimited number of Channels and Tracks to organize your work.
 
 ### Share and collaborate with Kobble
-You can easily share whole Channels of information with people who are interested in your work. Sharing Kobble Channels with people you are collaborating with on your projects is so easy.
+You can easily share whole Channels of information with people who are interested in your work. Sharing Kobble Channels with people you are collaborating with on your projects is effortless.
 
 ### Kobble uses Markdown format
 Documents and presentations in your Kobble environment are formatted using Markdown, an easy to use and versitile syntax.  The benefits of Markdown is that it is platform independent, intuitive to use, uses plain text, provides basic formatting, and is easily converted to HTML.
