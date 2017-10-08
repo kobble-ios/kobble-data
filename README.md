@@ -31,14 +31,16 @@ Documents and presentations in your Kobble environment are formatted using Markd
 
 ### Kobble data storage using GitHub
 Kobble stores all of your data on [GitHub](https://github.com) in *your personal account*. 
-For those already familiar with GitHub, you will love this! Perhaps GitHub is new to other users, but you will soon see the benefits of having all your data stored and backed up so easily. You will have stress free storage with the security that your data is never lost. GitHub is easy to use and keeps everything updated as you edit. Your data can be edited, updated and controlled both through your personal GitHub account as well as through your personal Kobble environment. GitHub also keeps all of your revisions!
+For those already familiar with GitHub, you will love this! Perhaps GitHub is new to other users, but you will soon see the benefits of having all your data stored and backed up so easily. 
+You will have stress free storage with the security that your data is never lost. GitHub is easy to use and keeps everything updated as you edit. 
+Your data can be edited, updated and controlled both through your personal GitHub account as well as through your personal Kobble environment. GitHub also keeps all of your revisions!
 
 ### Share and collaborate or keep it private with Kobble
 Some people like privacy; some people like sharing and collaborating; and some people like a little of both. 
 Kobble has the versatility for sharing as much or as little as you want. 
 Your Kobble data can be stored in GitHub as a Secret Gist, a Private Repo, or a Public Repo.
 All of your data is sent directly from your browser to GitHub, so it is never stored on our servers. 
-Your data actually completely bypasses our servers, so if you choose to keep privacy, nobody else ever sees any of your data unless you decide to make it public.
+Your data actually completely bypasses our servers, so if you choose to keep privacy, then nobody else ever sees any of your data unless you decide to make it public.
 You can choose to keep your information private, and yet still easily share parts of it by sharing Channels of information with people who are interested in your work. 
 Sharing Kobble Channels with people you are collaborating with on your projects is effortless. 
 With Kobble, you always maintain control over your own data.
