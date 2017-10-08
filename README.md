@@ -1,10 +1,19 @@
 ### Welcome to Kobble
+
 Kobble is an amazingly versatile productivity environment that is just what you have been looking for!
+
+# Kobble increases productivity for everyone
 It is designed for just about anyone to use.
 Students, researchers, and professionals will find Kobble especially useful to keep track of projects and data.
+
+# Kobble can be used for a variety of purposes
 With Kobble, you can easily create content for a variety of purposes.
 You can keep all your data in Kobble such as study notes, projects, internet research, reports, and presentations.
 Kobble also helps you increase your productivity as you browse the internet for your research projects.
+You can also keep images, videos and all other project related links and notes all together in one place.
+You can even stream archived books and view them in your Kobble environment.
+
+# Kobble allows you to organize the way you want to
 The Kobble environment allows you to keep your internet links organized just the way you want them.
 You can drag and drop your links right into your personal Kobble environment.
 Kobble allows you to create items in a Tree format such as links, file folders, documents and presentations.
