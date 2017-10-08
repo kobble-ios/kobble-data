@@ -30,7 +30,6 @@ You can create an unlimited number of Channels and Tracks to organize your work.
 ### Share and collaborate with Kobble
 You can easily share whole Channels of information with people who are interested in your work. Sharing Kobble Channels with people you are collaborating with on your projects is so easy.
 
-
 ### Kobble uses Markdown format
 Documents and presentations in your Kobble environment are formatted using Markdown, an easy to use and versitile syntax.  The benefits of Markdown is that it is platform independent, intuitive to use, uses plain text, provides basic formatting, and is easily converted to HTML.
 
@@ -41,11 +40,10 @@ You control all your data, and you can decide if you want your data to be privat
 All of your data is sent directly from your browser to GitHub, so it is never stored on our servers-- the data actually completely bypasses our servers, so nobody else ever sees any of your data unless you decide to make your data public.
 Those who like privacy, will really like the fact that you can keep your personal information private.
 Depending on how you decide to log in, your Kobble data will be stored in a Secret Gist, a Public Repo, or a Private Repo.
-Your data can be edited, updated and controlled both through your personal Kobble environment as well as through GitHub
-Because your data is stored and backed up in GitHub, you will never lose your Kobble data.
+Your data can be edited, updated and controlled both through your personal Kobble environment as well as through GitHub.
 
 ### Just imagine what you can do with Kobble
 Just imagine how much more productive you will be by having control over how your data is collected, created, presented, stored and shared!
 
-Kobble gives you mastery over all stages of your productivity: from the conception of your ideas; to beginning to gather information; to then collaborating with others; and finally to the completion of your projects in a final presentation. All this, in a format that can easily be shared with others at any stage of your project... or kept private.
+Kobble gives you mastery over all stages of your creative process and productivity: from the conception of your ideas; to beginning to gather information; to then collaborating with others; to the completion of your projects in a final presentation; and finally, to sharing your finished product. Once you see what you can do with Kobble, you'll wonder how you ever lived without it. 
 Check out our videos and tutorials to help you get started, right away!
