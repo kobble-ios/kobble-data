@@ -1,7 +1,7 @@
 # Welcome to Kobble
 Kobble is an amazingly versatile productivity environment that is just what you have been looking for!
 Kobble is so unique, that you may not have ever seen anything like it before.
-We call it Kobble, because you can Kobble together a variety of things that were once scattered in various different places, and then bringing it all together into one place.
+We call it Kobble, because you can Kobble together a variety of things that were once scattered in various different places, and then bring it all together into one place.
 So, let's start with a brief description of what Kobble is all about.
 
 ### Kobble increases productivity for everyone
