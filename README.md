@@ -18,13 +18,12 @@ Kobble also helps you increase your productivity as you browse the internet coll
 You can also keep images, videos and all other project related links and notes all together in one place. Drag and drop makes all your multi-tasking so quick and easy. 
 
 ### Kobble allows you to organize the way you want to
-The Kobble environment allows you to keep your internet links organized just the way you want them.
-You can drag and drop your links right into your personal Kobble environment.
-Kobble allows you to create items in a Tree format such as links, file folders, documents and presentations.
-Kobble uses a data model similar to YouTube or Spotify to organize data within a Tree containing Channels and what we call Tracks - which is simply a collection of items relating to your projects that you want to keep track of.
-Channels can hold items related to topics of interest and Tracks help you organize your items by project. 
-The versatility of the Kobble Tree allows you to drag and drop easily, so you can organize, copy and rearrange your Channels and Tracks however you want.
-You can create an unlimited number of Channels and Tracks to organize your work.
+Kobble allows you to create various items in a Tree data format such as links, file folders, documents and presentations.
+Kobble's unique Tree data model contains Channels and what we call Tracks - which is simply a collection of these items relating to your projects that you want to keep track of.
+The versatility of the Kobble Tree allows you to drag and drop easily, so you can organize, copy and rearrange your Channels, Tracks and Items however you want.
+You can create an unlimited number of Channels, Tracks and Items to organize your work. 
+
+Another great feature of Kobble is that you can collect internet links easily by dragging and dropping them from the internet right into your Kobble Channels so you can keep them organized along with relevant infromation within your projects. The Kobble environment allows you to keep your internet links organized just the way you want them.
 
 ### Share and collaborate with Kobble
 You can easily share whole Channels of information with people who are interested in your work. Sharing Kobble Channels with people you are collaborating with on your projects is effortless.
@@ -34,7 +33,7 @@ Documents and presentations in your Kobble environment are formatted using Markd
 
 ### Kobble data storage using GitHub
 Kobble stores all of your data on [GitHub](https://github.com) in *your personal account*. 
-For those familiar with GitHub, you will love this! Perhaps, GitHub is new to other users, but you will soon see the benefits of having all your data stored and backed up so easily. You will have stress free storage and the confidence that your data is never lost. GitHub is easy to use and keeps everything updated as you edit. It also keeps all of your revisions!
+For those familiar with GitHub, you will love this! Perhaps, GitHub is new to other users, but you will soon see the benefits of having all your data stored and backed up so easily. You will have stress free storage and the security that your data is never lost. GitHub is easy to use and keeps everything updated as you edit. It also keeps all of your revisions!
 You control all your data, and you can decide if you want your data to be private or public.
 All of your data is sent directly from your browser to GitHub, so it is never stored on our servers-- the data actually completely bypasses our servers, so nobody else ever sees any of your data unless you decide to make your data public.
 Those who like privacy, will really like the fact that you can keep your personal information private.
