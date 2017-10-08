@@ -33,7 +33,7 @@ Documents and presentations in your Kobble environment are formatted using Markd
 Kobble stores all of your data on [GitHub](https://github.com) in *your personal account*. 
 For those already familiar with GitHub, you will love this! Perhaps GitHub is new to other users, but you will soon see the benefits of having all your data stored and backed up so easily. You will have stress free storage with the security that your data is never lost. GitHub is easy to use and keeps everything updated as you edit. Your data can be edited, updated and controlled both through your personal GitHub account as well as through your personal Kobble environment. GitHub also keeps all of your revisions!
 
-### Share and Collaborate or Keep it private with Kobble
+### Share and collaborate or keep it private with Kobble
 Some people like privacy; some people like sharing and collaborating; and some people like a little of both. 
 Kobble has the versatility for sharing as much or as little as you want. 
 Your Kobble data can be stored in GitHub as a Secret Gist, a Public Repo, or a Private Repo. 
