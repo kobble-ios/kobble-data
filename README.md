@@ -41,7 +41,7 @@ All of your data is sent directly from your browser to GitHub, so it is never st
 Your data actually completely bypasses our servers, so if you choose to keep privacy, nobody else ever sees any of your data unless you decide to make it public.
 You can choose to keep your information private, and yet still easily share parts of it by sharing Channels of information with people who are interested in your work. 
 Sharing Kobble Channels with people you are collaborating with on your projects is effortless. 
-You always maintain control over your own data.
+With Kobble, you always maintain control over your own data.
 
 ### Just imagine what you can do with Kobble
 Just imagine how much more productive you will be by having control over how your data is collected, created, presented, stored and shared!
