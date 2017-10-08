@@ -44,5 +44,5 @@ Your data can be edited, updated and controlled both through your personal Kobbl
 ### Just imagine what you can do with Kobble
 Just imagine how much more productive you will be by having control over how your data is collected, created, presented, stored and shared!
 
-Kobble gives you mastery over all stages of your creative process and productivity: starting from the conception of your ideas;to gathering information; to then collaborating with others; up to the completion of your projects in a final presentation; and finally, to sharing your finished product with others. Once you see what you can do with Kobble, you'll wonder how you ever lived without it. 
+Kobble gives you mastery over all stages of your creative process and productivity: starting from the conception of your ideas; to gathering information; to then collaborating with others; up to the completion of your projects in a final presentation; and finally, to sharing your finished product with others. Once you see what you can do with Kobble, you'll wonder how you ever lived without it. 
 Check out our videos and tutorials to help you get started, right away!
