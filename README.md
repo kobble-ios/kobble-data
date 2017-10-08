@@ -1,7 +1,7 @@
 # Welcome to Kobble
 Kobble is an amazingly versatile productivity environment that is just what you have been looking for!
 Kobble is so unique, that you may not have ever seen anything like it before.
-We call it Kobble, because you can Kobble together a variety of things that were once scattered in various different places, and then bring it all together into one place. So, let's start with a brief description of what Kobble is all about.
+With Kobble, you can collect scattered information from various sources and bring it all together into one place.
 
 ### Kobble increases productivity for everyone
 Kobble is designed for just about anyone to use.
@@ -18,11 +18,11 @@ You can also keep images, videos and all other project related links and notes a
 
 ### Kobble allows you to organize the way you want to
 Kobble allows you to create various items in a Tree data format such as links, file folders, documents and presentations.
-Kobble's unique Tree data model contains Channels and what we call Tracks - which is simply a collection of these items relating to your projects that you want to keep track of.
+Kobble's unique tree data model contains Channels and what we call Tracks - which is simply a collection of these items relating to your projects that you want to keep track of.
 The versatility of the Kobble Tree allows you to drag and drop easily, so you can organize, copy and rearrange your Channels, Tracks and Items however you want.
 You can create an unlimited number of Channels, Tracks and Items to organize your work. 
 
-Another great feature of Kobble is that you can collect internet links easily by dragging and dropping them from the internet right into your Kobble Channels so you can keep them organized along with relevant infromation within your projects. The Kobble environment allows you to keep your internet links organized just the way you want them.
+Another great feature of Kobble is that you can collect internet links easily by dragging and dropping them directly from the internet right into your Kobble Tracks. So, you can keep links organized where you need them, along with other related information within your projects. 
 
 ### Share and collaborate with Kobble
 You can easily share whole Channels of information with people who are interested in your work. Sharing Kobble Channels with people you are collaborating with on your projects is effortless.
@@ -32,12 +32,10 @@ Documents and presentations in your Kobble environment are formatted using Markd
 
 ### Kobble data storage using GitHub
 Kobble stores all of your data on [GitHub](https://github.com) in *your personal account*. 
-For those familiar with GitHub, you will love this! Perhaps GitHub is new to other users, but you will soon see the benefits of having all your data stored and backed up so easily. You will have stress free storage with the security that your data is never lost. GitHub is easy to use and keeps everything updated as you edit. It also keeps all of your revisions!
-You control all your data, and you can decide if you want your data to be private or public.
-All of your data is sent directly from your browser to GitHub, so it is never stored on our servers-- the data actually completely bypasses our servers, so nobody else ever sees any of your data unless you decide to make your data public.
-Those who like privacy, will really like the fact that you can keep your personal information private.
-Depending on how you decide to log in, your Kobble data will be stored in a Secret Gist, a Public Repo, or a Private Repo.
-Your data can be edited, updated and controlled both through your personal Kobble environment as well as through GitHub.
+For those already familiar with GitHub, you will love this! Perhaps GitHub is new to other users, but you will soon see the benefits of having all your data stored and backed up so easily. You will have stress free storage with the security that your data is never lost. GitHub is easy to use and keeps everything updated as you edit. Your data can be edited, updated and controlled both through your personal GitHub account as well as through your personal Kobble environment. GitHub also keeps all of your revisions!
+You control all your data, and you can decide if you want your data to be private or public. Depending on how you decide to log in, your Kobble data will be stored in a Secret Gist, a Public Repo, or a Private Repo.
+All of your data is sent directly from your browser to GitHub, so it is never stored on our servers. Your data actually completely bypasses our servers, so nobody else ever sees any of your data unless you decide to make it public.
+Those who like privacy, will really like the fact that you have the choice of keeping personal information private.
 
 ### Just imagine what you can do with Kobble
 Just imagine how much more productive you will be by having control over how your data is collected, created, presented, stored and shared!
