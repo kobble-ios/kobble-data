@@ -24,7 +24,7 @@ You can create an unlimited number of Channels, Tracks and Items to organize you
 ### Kobble has drag and drop features
 The versatility of the Kobble tree format allows you to drag and drop easily so you can organize and rearrange your Channels, Tracks and Items however you want.
 Another great feature of Kobble is that you can collect internet links easily by dragging and dropping them directly from the internet right into your Kobble Tracks. 
-So, you can keep links organized where you need them, right alongside with other related information within your projects. 
+So, you can keep links organized where you need them, right alongside with other related information within your project Tracks.
 
 ### Kobble uses Markdown format
 Documents and presentations in your Kobble environment are formatted using Markdown, an easy to use and versatile syntax format.  The benefits of Markdown is that it is platform independent, intuitive to use, uses plain text, provides basic formatting, and is easily converted to HTML.
