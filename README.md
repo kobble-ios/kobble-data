@@ -30,7 +30,7 @@ You can create an unlimited number of Channels and Tracks to organize your work.
 You can easily share whole Channels of information with people who are interested in your work. Sharing Kobble Channels with people you are collaborating with on your projects is effortless.
 
 ### Kobble uses Markdown format
-Documents and presentations in your Kobble environment are formatted using Markdown, an easy to use and versitile syntax.  The benefits of Markdown is that it is platform independent, intuitive to use, uses plain text, provides basic formatting, and is easily converted to HTML.
+Documents and presentations in your Kobble environment are formatted using Markdown, an easy to use and versatile syntax.  The benefits of Markdown is that it is platform independent, intuitive to use, uses plain text, provides basic formatting, and is easily converted to HTML.
 
 ### Kobble data storage using GitHub
 Kobble stores all of your data on [GitHub](https://github.com) in *your personal account*. 
