@@ -9,8 +9,9 @@ Be sure to also check out our introductory videos to see for yourself what you c
 ### Kobble increases productivity for everyone
 Kobble is designed for just about anyone to use.
 Students, researchers, and professionals will find Kobble especially useful to keep track of projects and data.
-If you like to keep a lot of data on a variety of topics of interest to you, Kobble was made just for you!
+If you like to keep a lot of data on a variety of topics of interest to you, Kobble was made with you in mind!
 From organizing your internet bookmarks; to gathering internet research; to presenting your information, Kobble has just what you need to get the job done.
+If you are a creative, productive person, then Kobble is right for you!
 
 ### Kobble can be used for a variety of purposes
 With Kobble, you can easily create content for a variety of purposes.
