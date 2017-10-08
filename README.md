@@ -22,7 +22,7 @@ Kobble's unique tree data model contains Channels and what we call Tracks - whic
 You can create an unlimited number of Channels, Tracks and Items to organize your work. 
 
 ### Kobble has drag and drop features
-The versatility of the Kobble Tree allows you to drag and drop easily so you can organize and rearrange your Channels, Tracks and Items however you want.
+The versatility of the Kobble tree format allows you to drag and drop easily so you can organize and rearrange your Channels, Tracks and Items however you want.
 Another great feature of Kobble is that you can collect internet links easily by dragging and dropping them directly from the internet right into your Kobble Tracks. 
 So, you can keep links organized where you need them, right alongside with other related information within your projects. 
 
