@@ -22,7 +22,7 @@ You can even stream archived books and view them in your Kobble environment.
 The Kobble environment allows you to keep your internet links organized just the way you want them.
 You can drag and drop your links right into your personal Kobble environment.
 Kobble allows you to create items in a Tree format such as links, file folders, documents and presentations.
-Kobble uses a data model similar to YouTube or Spotify to organize data within a Tree containing Channels and what we call Tracks - which is simply a collection of items relating to your projects.
+Kobble uses a data model similar to YouTube or Spotify to organize data within a Tree containing Channels and what we call Tracks - which is simply a collection of items relating to your projects that you want to keep track of.
 Channels can hold items related to topics of interest and Tracks help you organize your items by project. 
 The versatility of the Kobble Tree allows you to organize, copy and rearrange your Channels and Tracks however you want.
 You can create an unlimited number of Channels and Tracks to organize your work.
