@@ -38,7 +38,7 @@ Your data can be edited, updated and controlled both through your personal GitHu
 ### Share and collaborate or keep it private with Kobble
 Some people like privacy; some people like sharing and collaborating; and some people like a little of both. 
 Kobble has the versatility for sharing as much or as little as you want. 
-Your Kobble data can be stored in GitHub as a Secret Gist, a Private Repo, or a Public Repo.
+Your Kobble data can be stored in GitHub as a Private Repository, or a Public Repository.
 All of your data is sent directly from your browser to GitHub, so it is never stored on our servers. 
 Your data actually completely bypasses our servers, so if you choose to keep privacy, then nobody else ever sees any of your data unless you decide to make it public.
 You can choose to keep your information private, and yet still easily share parts of it by sharing Channels of information with people who are interested in your work. 
