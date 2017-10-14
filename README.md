@@ -13,7 +13,7 @@ If you are a creative, productive person, then Kobble is right for you!
 With Kobble, you can easily create content for a variety of purposes.
 You can keep all your data in Kobble such as study notes, projects, internet research, reports, and presentations. 
 Kobble also helps you increase your productivity as you browse the internet collecting information for your research projects.
-You can also keep images, videos and all other project related links and notes all together in one place. Drag and drop makes all your multi-tasking so quick and easy. 
+You can also keep images, videos and all other project related links and notes all together in one place. iOS 11 Drag and drop makes all your multi-tasking quick and easy. 
 
 ### Kobble allows you to organize the way you want to
 Kobble allows you to create various items in a tree data format such as links, file folders, documents and slide presentations.
