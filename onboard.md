@@ -17,5 +17,3 @@ Purchasing GitHub support enables sharing, one of the key features of Kobble.
 ## Try some sample channels
 
 Here are some sample channels that you can try. Just drag the link into My Channels and have a look.
-
-This page was created with Kobble. With sharing enabled, you can easily share channels and tracks that you create with any Kobble user.
