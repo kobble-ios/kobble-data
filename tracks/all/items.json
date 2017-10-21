@@ -58,11 +58,11 @@
           "url" : "https:\/\/en.m.wikipedia.org\/wiki\/Sport"
         }
       },
-      "title" : "en.m.wikipedia.org",
+      "title" : "Wikipedia Sports",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "en.m.wikipedia.org",
+      "subtitle" : "Wikipedia Sports",
       "expanded" : true,
       "children" : [
 
