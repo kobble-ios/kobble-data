@@ -1,5 +1,21 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.si.com\/"
+        }
+      },
+      "title" : "Homepage",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Sports Illustrated, SI.com is your daily destinati",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    }
   ]
 }
