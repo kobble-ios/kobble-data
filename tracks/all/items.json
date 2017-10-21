@@ -24,11 +24,11 @@
           "url" : "http:\/\/www.espn.com\/"
         }
       },
-      "title" : "www.espn.com",
+      "title" : "espn",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "www.espn.com",
+      "subtitle" : "espn",
       "expanded" : true,
       "children" : [
 
