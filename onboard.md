@@ -17,3 +17,14 @@ Purchasing GitHub support enables sharing, one of the key features of Kobble.
 ## Try some sample channels
 
 Here are some sample channels that you can try. Just drag the link into My Channels and have a look.
+
+### Sports
+
+[Sports](kobble://kobble.io/channel?title=Sports&subtitle=Sports&repo=kobble-data&owner=kobble-ios&path=channels/sports.json)
+
+### Spirituality
+
+[Doctors of the Church](kobble://kobble.io/channel?title=Doctors%20of%20the%20Church&subtitle=Doctors%20of%20the%20Church&repo=kobble-data&owner=catholic-place&path=channels/Doctors-of-the-Church.json)
+
+[Fathers of the Church](kobble://kobble.io/channel?title=Fathers%20of%20the%20Church&subtitle=Fathers%20of%20the%20Church&repo=kobble-data&owner=catholic-place&path=channels/fathers.json)
+
