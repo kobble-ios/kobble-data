@@ -6,6 +6,27 @@
         "contents" : {
           "spec" : {
             "owner" : "kobble-ios",
+            "path" : "onboard.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Quick Info",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.MarkdownView"
+      },
+      "subtitle" : "Quick Info",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "kobble-ios",
             "path" : "content\/ios-quick-start.md",
             "repo" : "kobble-data"
           }
