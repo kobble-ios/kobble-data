@@ -3,6 +3,15 @@
   "subtitle" : "Sports",
   "tracks" : [
     {
+      "title" : "Impressionism",
+      "subtitle" : "Painters",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/impressionism",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "All Sports",
       "subtitle" : "All Sports",
       "track" : {
